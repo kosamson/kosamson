@@ -10,8 +10,6 @@ I am currently **open to full-time Software Engineering (SWE/SDE) positions**, s
 ## Current Project
 <img src="https://www.t-mobile.com/news/_admin/uploads/2020/04/T-Mobile_New_Logo_Primary_RGB_M-on-K_Transparent.png" width=300px>
 
-<br>
-
 I am currently a **Software Engineer Intern** at **T-Mobile** working on Backend Development and DevOps projects with the API Center for Enablement (ACE). I will be working with this team from Summer 2021 up until Summer 2022 through the TechX program.
 
 #
