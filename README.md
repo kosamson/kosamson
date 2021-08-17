@@ -6,7 +6,6 @@ I have a strong passion for 💻**Backend Software Development**, ⚙️**DevOps
 
 I am currently **open to full-time Software Engineering (SWE/SDE) positions**, so please reach out for any opportunities!
 
-#
 ## Current Project
 <img src="https://www.t-mobile.com/news/_admin/uploads/2020/04/T-Mobile_New_Logo_Primary_RGB_M-on-K_Transparent.png" width=300px>
 
