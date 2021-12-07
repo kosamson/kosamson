@@ -4,8 +4,6 @@ I'm a **Computer Science and Software Engineering** (CSSE) major at the Universi
 
 I have a strong passion for 💻**Backend Software Development**, ⚙️**DevOps/Infrastructure**, ☁️**Cloud Computing**, and other emerging technology fields. I strive to attain a career in these fields that has a positive worldwide impact. 
 
-I am currently **open to full-time Software Engineering (SWE/SDE) positions**, so please reach out for any opportunities!
-
 ## Current Project
 <img src="https://www.t-mobile.com/news/_admin/uploads/2020/04/T-Mobile_New_Logo_Primary_RGB_M-on-K_Transparent.png" width=300px>
 
