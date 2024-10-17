@@ -1,13 +1,13 @@
 # Hi, I'm Kolby Samson.
 
-I'm a **Computer Science and Software Engineering** (CSSE) major at the University of Washington Bothell, **graduating in June 2022**🎓.
+I am currently a **Software Engineer** at **T-Mobile** working on enhancing the stability, security, and scalability of the **T-Mobile API Gateway (TAG)**.
 
-I have a strong passion for 💻**Backend Software Development**, ⚙️**DevOps/Infrastructure**, ☁️**Cloud Computing**, and other emerging technology fields. I strive to attain a career in these fields that has a positive worldwide impact. 
+I have a strong passion for 💻**Backend Software Development**, ⚙️**DevOps/Infrastructure**, ☁️**Cloud Computing**, and other emerging technology fields.
 
 ## Current Project
 <img src="https://www.t-mobile.com/news/_admin/uploads/2020/04/T-Mobile_New_Logo_Primary_RGB_M-on-K_Transparent.png" width=300px>
 
-I am currently an **Associate Software Engineer** at **T-Mobile** working on Backend Development and DevOps projects with the API Center for Enablement (ACE).
+
 
 #
 
